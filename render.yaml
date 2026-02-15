@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tamamu-love
+    name: my-ryou
     env: python
     region: Oregon
     plan: free
